@@ -1,0 +1,15 @@
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\bin\Debug\net7.0\SingletoneDesignPattern.exe
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\bin\Debug\net7.0\SingletoneDesignPattern.deps.json
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\bin\Debug\net7.0\SingletoneDesignPattern.runtimeconfig.json
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\bin\Debug\net7.0\SingletoneDesignPattern.dll
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\bin\Debug\net7.0\SingletoneDesignPattern.pdb
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\SingletoneDesignPattern.csproj.AssemblyReference.cache
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\SingletoneDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\SingletoneDesignPattern.AssemblyInfoInputs.cache
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\SingletoneDesignPattern.AssemblyInfo.cs
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\SingletoneDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\SingletoneDesignPattern.dll
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\refint\SingletoneDesignPattern.dll
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\SingletoneDesignPattern.pdb
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\SingletoneDesignPattern.genruntimeconfig.cache
+C:\Users\arezobabaei\Documents\arezo\DesignPatterns\SingletoneDesignPattern\obj\Debug\net7.0\ref\SingletoneDesignPattern.dll
